@@ -1,0 +1,7 @@
+C:\Users\Aeralius\source\repos\FileWarpConsole\FileWarpConsole\bin\Debug\FileWarpConsole.exe.config
+C:\Users\Aeralius\source\repos\FileWarpConsole\FileWarpConsole\bin\Debug\FileWarpConsole.exe
+C:\Users\Aeralius\source\repos\FileWarpConsole\FileWarpConsole\bin\Debug\FileWarpConsole.pdb
+C:\Users\Aeralius\source\repos\FileWarpConsole\FileWarpConsole\obj\Debug\FileWarpConsole.csprojAssemblyReference.cache
+C:\Users\Aeralius\source\repos\FileWarpConsole\FileWarpConsole\obj\Debug\FileWarpConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aeralius\source\repos\FileWarpConsole\FileWarpConsole\obj\Debug\FileWarpConsole.exe
+C:\Users\Aeralius\source\repos\FileWarpConsole\FileWarpConsole\obj\Debug\FileWarpConsole.pdb
